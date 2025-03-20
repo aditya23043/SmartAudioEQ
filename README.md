@@ -4,7 +4,7 @@
 
 <details>
 <summary>
-- Types of Power Amplifiers
+Types of Power Amplifiers
 </summary>
 
 ### Class A
@@ -53,3 +53,7 @@
 
 - ESP32 Web server
 - Slider for volume/gain, treble and base input
+
+## Ideation
+
+<img src="./imgs/idea.jpg">
