@@ -57,3 +57,13 @@ Types of Power Amplifiers
 ## Ideation
 
 <img src="./imgs/idea.jpg">
+
+## 2025-04-02 11:56
+- As of now, we are picking which amplifier circuit to use which balances simplicity and efficiency
+- The best circuit we have as of now is a BJT amplifier circuit with common base configuration
+
+<img src="./imgs/2025-04-02_11-58.png">
+
+- Also, the passive filter circuits are theoretically working and the values of R and C have been calculated corresponding to cutoff frequencies for bass and treble
+  - Refer to the [PDF](https://github.com/aditya23043/sem4/blob/main/IE/project.pdf)
+- I am quite confident about coding the web server since arduino ide provides a lot of helper functions for networking
